@@ -1,4 +1,4 @@
-#Find the factorial
+gitn #Find the factorial
 
 num=int(input("enter a number "))
 fact=1

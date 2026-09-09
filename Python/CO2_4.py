@@ -7,4 +7,3 @@ for i in range(1000, 10000):
         if all(int(digit)%2==0 for digit in str(i)):
             print(i)
 
-
